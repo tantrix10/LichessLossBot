@@ -1,0 +1,3 @@
+python-lichess
+twitter
+requests
